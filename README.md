@@ -32,4 +32,5 @@ The following measures were created using DAX:
 -     average rating men = CALCULATE(AVERAGE('HR_dataset'[FY20 Performance Rating]), FILTER('HR_dataset', 'HR_dataset'[Gender] = "Male"))
 -     New hire = CALCULATE(COUNT(HR_dataset[New hire FY20?]), FILTER(HR_dataset, HR_dataset[New hire FY20?] = "Y"))
 ## Data Visualization
-![dashboard](https://github.com/SorathF/PWC_Diversity_Inclusion_Dashboard/blob/9a50652e9d0a17f5377ca2ca3e140d06ebc3b7a1/Diversity%20%26%20Inclusion.pdf)
+![dashboard1](https://github.com/SorathF/PWC_Diversity_Inclusion_Dashboard/blob/f29ae508d926b532f79fa0e7e00065f63e2f94e3/Dashboard%201.png)
+![dashboard2](https://github.com/SorathF/PWC_Diversity_Inclusion_Dashboard/blob/f29ae508d926b532f79fa0e7e00065f63e2f94e3/Dashboard%202.png)
